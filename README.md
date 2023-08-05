@@ -1,2 +1,2 @@
 # countdown-dnd
-A simple countdown app for my D&amp;D group
+A simple countdown app 
